@@ -15,3 +15,9 @@ O código-fonte permanece no repositório privado `rick-coder/agilis`.
 3. Confirme a instalação.
 
 As versões seguintes são atualizadas automaticamente pelo Firefox.
+
+## Link estável
+
+```text
+https://github.com/rick-coder/agilis-dist/releases/latest/download/agilis.xpi
+```
